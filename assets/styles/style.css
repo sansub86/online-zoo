@@ -11,7 +11,7 @@ header{
     width: 82px;
     height: 52px;
     margin-right: 29px;
-    background: url("../../assets/images/logo.svg") no-repeat;
+    background: url("../images/logo.svg") no-repeat;
 }
 .menu{
     display: flex;
@@ -44,7 +44,7 @@ header{
 }
 .slider{
     height: 780px;
-    background: url("../../assets/images/Giant_Panda.png") no-repeat center/cover;
+    background: url("../images/Giant_Panda.png") no-repeat center/cover;
     position: relative;
 }
 h1{
@@ -111,7 +111,7 @@ h1 span{
 .backstage_img{
     width: 609px;
     height: 403px;
-    background: url("../../assets/images/bamboo-cap.png") no-repeat center/cover;
+    background: url("../images/bamboo-cap.png") no-repeat center/cover;
     flex-shrink: 0;
 }
 .backstage_text{
@@ -173,10 +173,10 @@ h2{
     bottom: 13px;
 }
 .food--banana{
-    background: url("../../assets/images/banana-bamboo_icon.svg") no-repeat;
+    background: url("../images/banana-bamboo_icon.svg") no-repeat;
 }
 .food--meat{
-    background: url("../../assets/images/meet-fish_icon.svg") no-repeat;
+    background: url("../images/meet-fish_icon.svg") no-repeat;
     width: 48px;
     height: 38px;
     right: 8px;
