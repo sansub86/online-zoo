@@ -270,3 +270,24 @@ h2{
     color: #333B41;
     margin-bottom: 60px;
 }
+.pick_text a {
+    color: #333B41;
+    border-bottom: 1px solid #FE9013;
+    text-decoration: none;
+}
+.pick_text a:hover{
+    color: #333B41;
+}
+.pick_question{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 130%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.stages_block{
+    margin-bottom: 60px;
+
+}
